@@ -146,7 +146,7 @@ export default function RootLayout({ children }) {
           }}
         />
        <link rel="icon" href="/favicon.ico" />
-<link rel="icon" type="image/svg+xml" href="/public/logo.svg" />
+<link rel="icon" type="image/svg+xml" href="/logo.svg" />
 <link rel="manifest" href="/site.webmanifest" />
       </head>
       <body
