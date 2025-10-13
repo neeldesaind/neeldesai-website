@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Code2",
+    "category": "Frontend",
+    "skills": ["React.js", "Next.js", "Tailwind CSS", "JavaScript", "HTML5", "CSS3"]
+  },
+  {
+    "icon": "Database",
+    "category": "Backend & Database",
+    "skills": ["Node.js", "Express.js", "MongoDB", "Firebase"]
+  },
+  {
+    "icon": "Cloud",
+    "category": "Cloud & Deployment",
+    "skills": ["Vercel", "Netlify", "GitHub", "Cloudinary"]
+  },
+  {
+    "icon": "Wrench",
+    "category": "Tools & Utilities",
+    "skills": ["VS Code", "Postman", "Figma", "Git"]
+  },
+  {
+    "icon": "Layers",
+    "category": "UI Libraries",
+    "skills": ["ShadCN", "Material UI", "Bootstrap"]
+  },
+  {
+    "icon": "Globe",
+    "category": "Other Skills",
+    "skills": ["Responsive Design", "REST APIs", "SEO Optimization"]
+  }
+]

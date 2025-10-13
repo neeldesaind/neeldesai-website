@@ -1,0 +1,13 @@
+{
+  "name": "Neel Desai",
+  "intro": "I'm a passionate developer and MCA graduate who thrives on building real-world digital solutions. I specialize in full-stack JavaScript (MERN) and love creating elegant, user-friendly experiences. When I'm not coding, I'm learning new tech trends or mentoring peers.",
+  "photo": "/neel.webp",
+  "skills": ["React", "Next.js", "Node.js", "TailwindCSS", "MongoDB", "Express.js"],
+  "services": ["Web Design", "Web Development", "Mobile App Development", "UI/UX Design", "SEO Optimization"],
+  "tools": ["VS Code", "Figma", "Postman", "Git", "GitHub", "Cloudinary"],
+  "experience": [
+    { "label": "Projects Completed", "value": "50+" },
+    { "label": "Happy Clients", "value": "30+" },
+    { "label": "Years Experience", "value": "3" }
+  ]
+}

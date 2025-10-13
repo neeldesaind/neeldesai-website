@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What services do you offer?",
+    "answer": "I provide web development, app development, UI/UX design, and database management services tailored to your needs."
+  },
+  {
+    "question": "How can I contact you for a project?",
+    "answer": "You can reach out via the Contact page or directly send an email to your@example.com."
+  },
+  {
+    "question": "Do you offer remote services?",
+    "answer": "Yes! I can work remotely and coordinate with clients globally."
+  },
+  {
+    "question": "What is your typical project timeline?",
+    "answer": "It depends on the scope and complexity. Small projects may take 1-2 weeks, while larger projects can take 1-3 months."
+  },
+  {
+    "question": "Do you provide post-launch support?",
+    "answer": "Absolutely! I provide optional post-launch support and maintenance for all projects."
+  },
+  {
+    "question": "Which technologies do you specialize in?",
+    "answer": "I specialize in React.js, Next.js, TailwindCSS, Node.js, MongoDB, and SQL databases."
+  },
+  {
+    "question": "Can you help with UI/UX design?",
+    "answer": "Yes, I provide modern and responsive UI/UX designs that are user-friendly and mobile-optimized."
+  },
+  {
+    "question": "How do you handle project deadlines?",
+    "answer": "I communicate regularly with clients and provide a clear timeline to ensure timely delivery of all milestones."
+  }
+]

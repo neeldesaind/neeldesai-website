@@ -1,0 +1,36 @@
+{
+  "logo": "/public/test.png",
+  "companyName": "Neel Desai",
+  "contact": {
+    "heading": "Contact",
+    "address": "Opposite Primary Health Center, Limbasi 387520",
+    "email": "contact@neeldesai.in",
+    "phone": "+91 81600 26509"
+  },
+  "help": {
+    "heading": "Help & Support",
+    "links": [
+      { "label": "FAQ", "href": "/faq" },
+      { "label": "Support", "href": "/support" }
+    ]
+  },
+  "policy": {
+    "heading": "Policy",
+    "links": [
+      { "label": "Privacy Policy", "href": "/privacy-policy" },
+      { "label": "Refund Policy", "href": "/refund-policy" },
+      { "label": "Terms & Conditions", "href": "/terms-and-conditions" }
+    ]
+  },
+  "socials": [
+    { "label": "Facebook", "href": "https://facebook.com/neeldesai.in", "icon": "FaFacebookF" },
+    { "label": "Instagram", "href": "https://instagram.com/neeldesai.in", "icon": "FaInstagram" },
+    { "label": "LinkedIn", "href": "https://linkedin.com/company/neeldesai", "icon": "FaLinkedinIn" },
+    { "label": "Twitter", "href": "https://twitter.com", "icon": "FaTwitter" }
+  ]
+}
+
+
+
+
+

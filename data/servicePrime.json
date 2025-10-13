@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Code",
+    "title": "Web Development",
+    "description": "Building responsive, modern, and high-performance websites using React, Next.js, and Tailwind CSS."
+  },
+  {
+    "icon": "Monitor",
+    "title": "UI/UX Design",
+    "description": "Designing intuitive user interfaces and smooth user experiences for web and mobile applications."
+  },
+  {
+    "icon": "Smartphone",
+    "title": "Mobile App Development",
+    "description": "Creating cross-platform mobile applications with React Native and other modern technologies."
+  },
+  {
+    "icon": "Globe",
+    "title": "SEO & Optimization",
+    "description": "Improving website visibility and performance with SEO best practices and optimization techniques."
+  },
+  {
+    "icon": "Database",
+    "title": "Database Management",
+    "description": "Designing, managing, and optimizing databases for applications to ensure scalability and performance."
+  },
+  {
+    "icon": "Wrench",
+    "title": "Technical Support",
+    "description": "Providing ongoing maintenance and technical support to keep websites and apps running smoothly."
+  }
+]

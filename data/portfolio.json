@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Thousands Shade Art",
+    "type": "MERN",
+    "description": "Thousand Shades of Art is a full-stack web platform designed for custom art creation and client interaction. The platform allows users to request personalized digital sketches, submit reviews, and explore artwork — all seamlessly integrated with a dynamic, responsive user experience.",
+    "image": "/projects/tsa.webp",
+    "viewLink": "https://thousandshadesart.vercel.app/"
+  },
+  {
+    "title": "Keval's Portfolio",
+    "type": "React + Tailwind",
+    "description": "I designed and developed a fully responsive, modern personal portfolio website for my client Keval Shah, aimed at professionally showcasing his skills, experience, and achievements.",
+    "image": "/projects/keval.webp",
+    "viewLink": "https://kevalshah.vercel.app/"
+  },
+  {
+    "title": "B & V Book Club",
+    "type": "MERN",
+    "description": "Freelance project for my client",
+    "image": "/projects/b&v.webp",
+    "viewLink": "https://bvbookclub.vercel.app/"
+  },
+  {
+    "title": "Portfolio Website",
+    "type": "MERN",
+    "description": "Portfolio With Database & Admin Panel",
+    "image": "/projects/portfolio.webp",
+    "viewLink": "https://mern-portfolio-lilac.vercel.app/portfolio"
+  },
+  {
+    "title": "Kissan Plus",
+    "type": "MERN",
+    "description": "Kissan-Plus is a full-stack application designed to support and empower farmers with tools and resources. It features a Vite-powered React frontend and a Node.js/Express backend.",
+    "image": "/projects/kissanplus.webp",
+    "viewLink": "https://github.com/neelhdesai/prj_kissanplus_MCA_04"
+  },
+  {
+    "title": "Eduverse - Elearning Portal",
+    "type": "MERN",
+    "description": "E-learning portal is a web-based application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to provide an efficient and user-friendly learning experience. The platform offers three distinct roles: Visitor, Student, and Admin, each with unique functionalities.",
+    "image": "/projects/eduverse.webp",
+    "viewLink": "https://github.com/neelhdesai/prj_eduverse_MCA_03"
+  },
+  {
+    "title": "Github Scout",
+    "type": "Flutter",
+    "description": "A sleek Flutter app for searching GitHub profiles and viewing detailed user information.",
+    "image": "/projects/github.webp",
+    "viewLink": "https://github.com/neelhdesai/flutter-github-scout"
+  },
+  {
+    "title": "Sip & Lumpsum Calculator",
+    "type": "Flutter",
+    "description": "The SIP & Lumpsum Calculator is a Flutter application designed to help users calculate their potential returns from Systematic Investment Plans (SIP) and lump sum investments.",
+    "image": "/projects/sip-calc.webp",
+    "viewLink": "https://github.com/neelhdesai/flutter-sip-calculator"
+  },
+  {
+    "title": "To Do List",
+    "type": "Flutter",
+    "description": "A simple Todo application built with Flutter that allows users to manage their tasks effectively. Users can create, edit, delete, and mark tasks as completed while tracking due dates and remaining time for tasks.",
+    "image": "/projects/to-do-list.webp",
+    "viewLink": "https://github.com/neelhdesai/flutter-to-do-list"
+  },
+  {
+    "title": "Tic tac toe",
+    "type": "Flutter",
+    "description": "A full-featured campus placement system with role-based access for students and recruiters, real-time job postings, and resume filtering.",
+    "image": "/projects/tic-tac-toe.webp",
+    "viewLink": "https://github.com/neelhdesai/flutter-tic-tac-toe"
+  },
+  {
+    "title": "Weather App",
+    "type": "Android",
+    "description": "A simple weather application built for Android that provides current weather data based on user location or city name input. It utilizes the OpenWeatherMap API to fetch weather details, including temperature, humidity, wind speed, sunrise, and sunset times. The app also features dynamic background animations and images based on the weather conditions.",
+    "image": "/projects/weather-app.webp",
+    "viewLink": "https://github.com/neelhdesai/weather_app_android"
+  },
+  {
+    "title": "Library Management Applications",
+    "type": "Android",
+    "description": "The Library Management System is a comprehensive platform that enables students and librarians to manage library-related tasks efficiently. It features functionalities for issuing books, paying fines, and managing book inventories, making library operations more streamlined and user-friendly.",
+    "image": "/projects/library-management-system.webp",
+    "viewLink": "https://github.com/neelhdesai/prj_library_management_BSIT"
+  }
+]

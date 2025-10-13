@@ -1,0 +1,8 @@
+# robots.txt for Neel Desai Portfolio
+# Allow all search engines to crawl and index your pages
+
+User-agent: *
+Disallow:
+
+# Sitemap location (helps search engines find your pages faster)
+Sitemap: https://www.neeldesai.in/sitemap.xml
