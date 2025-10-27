@@ -26,7 +26,7 @@ export default function TestimonialSection() {
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 4000,
+    autoplaySpeed: 5000,
     cssEase: "ease-in-out",
     pauseOnHover: true,
     responsive: [
@@ -39,28 +39,28 @@ export default function TestimonialSection() {
         settings: { slidesToShow: 2 },
       },
       {
-        breakpoint: 768, // tablets
+        breakpoint: 900, // tablets and mobiles
         settings: { slidesToShow: 1, arrows: false },
       },
       {
-        breakpoint: 480, // small mobiles
-        settings: { slidesToShow: 1, arrows: false },
+        breakpoint: 600, // small mobiles
+        settings: { slidesToShow: 1, arrows: false, dots: true },
       },
     ],
   };
 
   return (
-    <section className="w-full py-16 bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100 px-4 sm:px-6 lg:px-10">
+    <section className="w-full py-16 bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100 px-4 sm:px-6 lg:px-10 overflow-hidden">
       {/* Heading */}
       <div className="text-center mb-12">
         <h2 className="text-3xl sm:text-4xl font-bold">Testimonials</h2>
-        <p className="text-gray-600 dark:text-gray-400 mt-3 max-w-xl mx-auto text-sm sm:text-base">
+        <p className="text-gray-600 dark:text-gray-400 mt-3 max-w-xl mx-auto text-sm sm:text-base leading-relaxed">
           Hear what my clients and colleagues say about my work.
         </p>
       </div>
 
       {/* Slider */}
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl mx-auto overflow-hidden">
         <Slider {...settings}>
           {testimonials.map((t, idx) => {
             const isExpanded = expanded[idx] || false;
@@ -71,9 +71,9 @@ export default function TestimonialSection() {
                 : t.text.slice(0, 150) + "...";
 
             return (
-              <div key={idx} className="px-3 sm:px-4">
-                <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300 p-6 sm:p-8 flex flex-col items-center text-center h-full">
-                  <p className="text-gray-700 dark:text-gray-300 mb-3 text-sm sm:text-base leading-relaxed">
+              <div key={idx} className="px-2 sm:px-4">
+                <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300 p-5 sm:p-8 flex flex-col justify-between text-center h-full min-h-[280px]">
+                  <p className="text-gray-700 dark:text-gray-300 mb-3 text-sm sm:text-base leading-relaxed tracking-wide">
                     {displayedText}
                   </p>
 
