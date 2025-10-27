@@ -1,7 +1,25 @@
-  @import "tailwindcss";
-  @import "slick-carousel/slick/slick.css"; 
-  @import "slick-carousel/slick/slick-theme.css";
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
 
-  html, body {
+html, body {
   overflow-x: hidden;
+}
+
+.slick-slide > div {
+  margin: 0 auto;
+}
+
+.slick-list {
+  overflow: visible;
+}
+
+@media (max-width: 768px) {
+  .slick-list {
+    overflow: hidden !important;
+  }
+}
+
+.slick-slider {
+  touch-action: pan-y; /* Better touch control on mobile */
 }
