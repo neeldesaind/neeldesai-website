@@ -7,19 +7,14 @@ html, body {
 }
 
 .slick-slide > div {
-  margin: 0 auto;
+  display: flex !important;
+  justify-content: center;
 }
 
 .slick-list {
-  overflow: visible;
-}
-
-@media (max-width: 768px) {
-  .slick-list {
-    overflow: hidden !important;
-  }
+  overflow: hidden !important; /* Force hide overflow */
 }
 
 .slick-slider {
-  touch-action: pan-y; /* Better touch control on mobile */
+  touch-action: pan-y; /* Better touch control */
 }
