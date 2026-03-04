@@ -21,14 +21,6 @@ export default function Footer() {
         {/* Logo & Contact */}
         <div className="flex flex-col space-y-4">
           <Image src={logo} alt="Logo" width={60} height={60} className="rounded-full" />
-          <h3 className="text-lg font-semibold">{contact.heading}</h3>
-          <p className="text-sm">{contact.address}</p>
-          <p className="text-sm">
-            Email: <a href={`mailto:contact@neeldesai.in`} className="hover:text-red-600 transition-colors">contact@neeldesai.in</a>
-          </p>
-          <p className="text-sm">
-            Phone: <a href={`tel:+918160026509`} className="hover:text-red-600 transition-colors">+91 81600 26509</a>
-          </p>
         </div>
 
         {/* Help & Support */}
@@ -76,4 +68,5 @@ export default function Footer() {
       </div>
     </footer>
   );
+
 }
