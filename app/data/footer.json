@@ -23,9 +23,10 @@
     ]
   },
   "socials": [
-    { "label": "Facebook", "href": "https://facebook.com/neeldesai.in", "icon": "FaFacebookF" },
-    { "label": "Instagram", "href": "https://instagram.com/neeldesai.in", "icon": "FaInstagram" },
-    { "label": "LinkedIn", "href": "https://linkedin.com/company/neeldesai", "icon": "FaLinkedinIn" },
-    { "label": "Twitter", "href": "https://twitter.com", "icon": "FaTwitter" }
+    { "label": "Facebook", "href": "#", "icon": "FaFacebookF" },
+    { "label": "Instagram", "href": "#", "icon": "FaInstagram" },
+    { "label": "LinkedIn", "href": "#", "icon": "FaLinkedinIn" },
+    { "label": "Twitter", "href": "#", "icon": "FaTwitter" }
   ]
 }
+
