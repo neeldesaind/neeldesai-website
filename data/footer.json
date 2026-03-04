@@ -3,9 +3,7 @@
   "companyName": "Neel Desai",
   "contact": {
     "heading": "Contact",
-    "address": "Opposite Primary Health Center, Limbasi 387520",
     "email": "contact@neeldesai.in",
-    "phone": "+91 81600 26509"
   },
   "help": {
     "heading": "Help & Support",
@@ -29,6 +27,7 @@
     { "label": "Twitter", "href": "https://twitter.com", "icon": "FaTwitter" }
   ]
 }
+
 
 
 
